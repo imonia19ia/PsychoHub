@@ -1,6 +1,8 @@
 body {
     background-color: #1a1a1a;
-    color: #fff;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p_69icibra3xUv8jJcPvAwHaE1%26pid%3DApi&f=1&ipt=d559b59d74c21f71af39726efadce0bab3db67ff95b07832563f08a9e726bbd3&ipo=images);
+    opacity: .3;
+        color: #fff;
     font-family: 'Arial', sans-serif;
 }
 
